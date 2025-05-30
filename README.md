@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/arjunboury/vulnerability-management-program)**
+- **[Windows 10 STIG Remediation Scripts (PowerShell)](https://github.com/arjunboury/Win10-STIG-Remediation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
