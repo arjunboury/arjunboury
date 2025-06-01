@@ -16,10 +16,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="" />][twitter]
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://www.youtube.com/" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://x.com/home?lang=en-ca" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="" />][instagram]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://www.instagram.com/" />][instagram]
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
